@@ -1,4 +1,4 @@
-## ECE637_Labs
+## ECE637 Labs
 Completed labs (ECE637 Digital Image Processing I, Purdue University)
 
 ## System Requirements
