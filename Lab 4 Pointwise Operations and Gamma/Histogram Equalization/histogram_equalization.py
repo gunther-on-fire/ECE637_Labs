@@ -25,7 +25,8 @@ def equalize(img):
     plt.ylim([-0.05, 1.05])
     plt.title(r'The CDF $\hat{F_{x}}(i)}$ for the 8 bit image $\it{kids.tif}$')
     plt.plot(cdf_x)
-    plt.show()
+    plt.savefig('cdf.png')
+    plt.close()
 
     # Pass the image img through the CDF of X
     y_s = cdf_x[img]
@@ -55,10 +56,12 @@ plt.xlabel("Pixel Intensity")
 plt.ylabel("Number of Pixels")
 plt.title(r'The equalized histogram for the 8 bit image $\it{kids.tif}$')
 plt.hist(hist_equalized.flatten(), bins=np.linspace(0, 255, 256))
-plt.show()
+plt.savefig('eq_hist.png')
+plt.close()
 
 # Display the equalized image
 plt.figure(3)
 plt.title(r'The image $\it{kids.tif}$ after histogram equalization')
 plt.imshow(hist_equalized, cmap=gray, vmin=0, vmax=255)
-plt.show()
+plt.savefig('img_eq_hist.png')
+plt.close()
