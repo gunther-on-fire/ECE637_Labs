@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from PIL import Image
-import sys # added to read the external arguments for the script
+import sys  # added to read the external arguments for the script
 
 for i in range(1, len(sys.argv)):
     # Read the filename
@@ -15,9 +15,9 @@ for i in range(1, len(sys.argv)):
 
     # Create and display the image histogram
     plt.figure()
-    plt.hist(x.flatten(), bins=np.linspace(0,255,256))
+    plt.hist(x.flatten(), bins=np.linspace(0, 255, 256))
     plt.xlabel('Pixel Intensity')
-    plt.xlim(0,255)
+    plt.xlim([0, 255])
     plt.ylabel('Number of Pixels')
-    plt.title('Histogram of the 8 bit image $\it{}$'.format(im_name))
+    plt.title(f"Histogram of the 8 bit image $\it{im_name}$")
     plt.show()
