@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56b0c2ef-4f33-481f-a609-de23521ae90c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab 6 Introduction to Colorimerty/2 Plotting Color Matching Functions and Illuminants /color_matching_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab 6 Introduction to Colorimerty/3 Chromaticity Diagrams/chromaticity_diag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab 6 Introduction to Colorimerty/4 Rendering an Image from Illuminant, Reflectance, and Color Matching Functions  /image_rendering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab 6 Introduction to Colorimerty/5 Color Chromaticity Diagram /color_chromaticity_diagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab 6 Introduction to Colorimerty/Lab 6 Introduction to Colorimerty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8 Image Halftoning.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2BLNZh5tK6Wgg4H8s2ous1U1vKt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56b0c2ef-4f33-481f-a609-de23521ae90c" name="Changes" comment="" />
+      <created>1656681465761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656681465761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
